@@ -52,6 +52,7 @@ Test:
 Respecto a los paquetes que veréis a continuación:
 La primera versión es lo que llegué a escribir en la kata.
 La segunda y la tercera versión las escribí a la mañana siguiente según los errores que vi y la interesante discusión que hubo en la kata.
+incluyo un esquema del árbol inicial que dibujé en la kata con el nombre esquemaV01.pdf
 
 
 
